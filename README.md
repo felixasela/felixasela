@@ -22,7 +22,7 @@ Hello! I'm Felix, a DevOps engineer and Software engineer from Colombia. Here ar
       <img src="https://github-readme-stats.vercel.app/api?username=felixasela&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide=html,css" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide=html,css,Cmake" />
     </td>
   </tr>
 </table>
