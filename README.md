@@ -1,16 +1,23 @@
 # 💫 About Me:
+
 Hello! I'm Felix, a DevOps engineer and Software engineer from Colombia. Here are some highlights about me:<br>
+
 - 🚀 My personal endeavors mostly revolve around cloud, automation, and scalable software development.<br>
 - 🤝 I'm always keen to contribute to projects that align with my values and beliefs.<br>
 - 💻 I'm most interested in cloud computing.
 
 # 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=felixasela&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
+
+
+In the first row are the languages I use the most and in which I perform the best, and in the second row are all the languages I have used.
 
 <table>
   <tr>
@@ -22,15 +29,23 @@ Hello! I'm Felix, a DevOps engineer and Software engineer from Colombia. Here ar
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center">
+      <div align="center">
 
-<div align="center">
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixasela&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixasela&theme=tokyonight&hide_border=false)
 
 </div>
-
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide">
+    </td>
+  </tr>
+</table>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=felixasela&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
