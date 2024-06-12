@@ -29,3 +29,6 @@ In the first row are the languages I use the most and in which I perform the bes
     </td>
   </tr>
 </table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide=html,cmake,swift,c,typescript,kotlin,objective-c" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide" />
