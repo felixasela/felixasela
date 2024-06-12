@@ -19,13 +19,15 @@ Hello! I'm Felix, a DevOps engineer and Software engineer from Colombia. Here ar
 
 In the first row are the languages I use the most and in which I perform the best, and in the second row are all the languages I have used.
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide=html,cmake,swift,c,typescript,kotlin,objective-c" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide=html,cmake,swift,c,typescript,kotlin,objective-c" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide" />
+      </td>
+    </tr>
+  </table>
+</div>
