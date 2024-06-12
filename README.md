@@ -22,10 +22,10 @@ In the first row are the languages I use the most and in which I perform the bes
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=felixasela&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide=html,cmake,swift,c,typescript,kotlin,objective-c" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide=html,cmake,swift,c,typescript,kotlin,objective-c" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide" />
     </td>
   </tr>
 </table>
@@ -34,18 +34,5 @@ In the first row are the languages I use the most and in which I perform the bes
     <td align="center">
       <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixasela&theme=tokyonight&hide_border=false)
-
-</div>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide">
-    </td>
-  </tr>
-</table>
-
 ---
-
-[![](https://visitcount.itsvg.in/api?id=felixasela&icon=0&color=11)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
