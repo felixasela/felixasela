@@ -29,5 +29,3 @@ In the first row are the languages I use the most and in which I perform the bes
     </td>
   </tr>
 </table>
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
