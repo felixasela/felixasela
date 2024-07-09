@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello! I'm Felix, a DevOps engineer and Software engineer from Colombia. Here are some highlights about me:<br>
+Hello! I'm Felix, a DevOps engineer and Full-Stack engineer from Colombia. Here are some highlights about me:<br>
 
 - 🚀 My personal endeavors mostly revolve around cloud, automation, and scalable software development.<br>
 - 🤝 I'm always keen to contribute to projects that align with my values and beliefs.<br>
@@ -17,7 +17,7 @@ Hello! I'm Felix, a DevOps engineer and Software engineer from Colombia. Here ar
 # 📊 GitHub Stats:
 
 
-In the first row are the languages I use the most and in which I perform the best, and in the second row are all the languages I have used.
+In the first column are the languages I use the most and in which I perform the best, and in the second row are all the languages I have used.
 
 <div align="center">
   <table>
