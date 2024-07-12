@@ -17,7 +17,7 @@ Hello! I'm Felix, a DevOps engineer and Full-Stack engineer from Colombia. Here 
 # 📊 GitHub Stats:
 
 
-In the first column are the languages I use the most and in which I perform the best, and in the second row are all the languages I have used.
+In the first column are the languages I use the most and in which I perform the best, and in the second column are all the languages I have used.
 
 <div align="center">
   <table>
