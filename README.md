@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-Hello! I'm Felix, a DevOps engineer and Full-Stack engineer from Colombia. Here are some highlights about me:<br>
+Hello! I'm Felix, a Full-Stack engineer from Colombia. Here are some highlights about me:<br>
 
-- 🚀 My personal endeavors mostly revolve around cloud, automation, and scalable software development.<br>
+- 🚀 My personal endeavors mostly revolve around cloud, automation, game development, and scalable software development.<br>
 - 🤝 I'm always keen to contribute to projects that align with my values and beliefs.<br>
 - 💻 I'm most interested in cloud computing.
 
