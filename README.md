@@ -19,7 +19,7 @@ In the first column are the languages I use the most and in which I perform the 
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide=html,cmake,swift,c,typescript,kotlin,objective-c" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide=html,cmake,swift,c,typescript,kotlin,objective-c,c%2B%2B" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixasela&theme=tokyonight&layout=compact&hide" />
